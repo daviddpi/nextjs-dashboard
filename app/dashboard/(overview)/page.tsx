@@ -1,4 +1,4 @@
-import { fetchCardData, fetchLatestInvoices } from "@/app/lib/data";
+// import { fetchCardData, fetchLatestInvoices } from "@/app/lib/data";
 // import CardWrapper, { Card } from "@/app/ui/dashboard/cards";
 import CardWrapper from "@/app/ui/dashboard/cards";
 import LatestInvoices from "@/app/ui/dashboard/latest-invoices";
